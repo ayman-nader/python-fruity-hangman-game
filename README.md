@@ -24,3 +24,4 @@ This project received full marks with bonus points for creativity.
 
 ## ▶️ How to Run
 - Download and Run the main .ipynb file
+- The file itself has clean markdown explanations for comprehension and convenience
