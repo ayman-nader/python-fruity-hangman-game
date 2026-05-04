@@ -10,7 +10,9 @@ This project is a command-line Hangman game built using Python as part of my Dat
 - Lighthearted UI
 - Random interactive messages
 - Different difficulties
-- Other bonus ideas: (Hint system, Visual progression system)
+- Dynamic attempt counter based on difficulty choice
+- Replay option (within loop and respectful of DRY principal)
+- Other non-implemented bonus ideas: (Hint system, Visual progression system)
 
 ## 🧠 Skills Demonstrated
 - Python fundamentals
